@@ -39,7 +39,7 @@ jobs:
         with:
           name: build
           path: build
-      - uses: actions/download-artifacts
+      - uses: actions/download-artifact
       - name: deploy to staging
         if: github.event_name == 'push'
         run: npx surge --project ./build --domain broken-secretary.surge.sh
