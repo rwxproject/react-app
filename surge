@@ -1,0 +1,12 @@
+surge
+
+   Running as rwxproject@gmail.com (Student)
+
+        project: .../react-app/build
+         domain: broken-secretary.surge.sh
+         upload: [=] 100% eta: 0.0s (19 files, 515327 bytes)
+            CDN: [====================] 100%
+     encryption: *.surge.sh, surge.sh (294 days)
+             IP: 138.197.235.123
+
+   Success! - Published to broken-secretary.surge.sh
