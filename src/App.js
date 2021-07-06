@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          rwxproject
+          rwx project
         </a>
       </header>
     </div>
