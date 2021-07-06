@@ -1,4 +1,4 @@
-modules.exports = {
+module.exports = {
   branches: "master",
   repositoryUrl: "https://github.com/rwxproject/react-app",
   plugins: [
