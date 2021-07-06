@@ -10,3 +10,7 @@ surge
              IP: 138.197.235.123
 
    Success! - Published to broken-secretary.surge.sh
+   ---
+   surge list
+   surge token
+   surge whoami
