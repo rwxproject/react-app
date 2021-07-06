@@ -1,4 +1,4 @@
-![](https://github.com/rwxproject/react-app/workflows/CI/badge.svg?branch=development=push)
+![](https://github.com/rwxproject/react-app/workflows/CI/badge.svg?branch=master=push)
 
 # Getting Started with Create React App
 
